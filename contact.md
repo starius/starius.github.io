@@ -13,6 +13,9 @@ title: Contact points for Boris Nagaev
  * Keybase: [starius][keybase]
  * Twitter: [bnagaev][twitter]
  * Reddit: [starius0][reddit]
+ * Codeforces: [starius][codeforces]
+ * Stack Overflow: [starius][stackoverflow]
+ * [LinkedIn profile][linkedin]
 
 [mail]: mailto:bnagaev@gmail.com
 [torchat]: https://github.com/prof7bit/TorChat/downloads
@@ -23,3 +26,6 @@ title: Contact points for Boris Nagaev
 [keybase]: https://keybase.io/starius
 [twitter]: https://twitter.com/bnagaev
 [reddit]: https://reddit.com/user/starius0
+[codeforces]: http://codeforces.com/profile/starius
+[stackoverflow]: http://stackoverflow.com/users/1293417/starius
+[linkedin]: https://www.linkedin.com/profile/view?id=372080676
