@@ -15,10 +15,29 @@
   </title>
 
   <!-- CSS -->
+  <noscript>
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/lanyon.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  </noscript>
+  <script>
+var loadCss = function(url) {
+    var ss = document.createElement('link');
+    var ref = document.getElementsByTagName('script')[0];
+    ss.rel = 'stylesheet';
+    ss.href = url;
+    ss.media = 'only x';
+    ref.parentNode.insertBefore(ss, ref);
+    setTimeout(function() {
+        ss.media = 'all';
+    });
+}
+loadCss("{{ site.baseurl }}public/css/poole.css");
+loadCss("{{ site.baseurl }}public/css/syntax.css");
+loadCss("{{ site.baseurl }}public/css/lanyon.css");
+loadCss("http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400");
+  </script>
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png">
