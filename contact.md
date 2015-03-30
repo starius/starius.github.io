@@ -10,6 +10,7 @@ title: Contact points for Boris Nagaev
  * Github: [starius][github]
  * Bitbucket: [starius][bitbucket]
  * Хабрахабр: [starius][habr]
+ * Тостер: [starius][toster]
  * Keybase: [starius][keybase]
  * Twitter: [bnagaev][twitter]
  * Reddit: [starius0][reddit]
@@ -23,6 +24,7 @@ title: Contact points for Boris Nagaev
 [github]: https://github.com/starius
 [bitbucket]: https://bitbucket.org/starius/
 [habr]: http://habrahabr.ru/users/starius/
+[toster]: http://toster.ru/user/starius/
 [keybase]: https://keybase.io/starius
 [twitter]: https://twitter.com/bnagaev
 [reddit]: https://reddit.com/user/starius0
