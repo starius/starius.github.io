@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software written by Boris Nagaev
+title: Software written by me
 ---
 
  * [NPG-explorer][npge], Nucleotide PanGenome explorer
