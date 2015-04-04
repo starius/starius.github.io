@@ -3,6 +3,8 @@ layout: page
 title: Sites created by me
 ---
 
+ * [starius.ru][homepage], my home page
+    ([source][homepage-src])
  * [thechess.ru][thechess], chess games online
     ([source][thechess-src])
  * [kiset.org][kiset], chat with strangers
@@ -15,6 +17,8 @@ title: Sites created by me
     application written in [Lapis][lapis]
     ([source][kodomoquiz-src])
 
+[homepage]: http://starius.ru
+[homepage-src]: https://github.com/starius/starius.github.io
 [thechess]: http://thechess.ru
 [thechess-src]: https://bitbucket.org/starius/thechess
 [kiset]: https://kiset.org
