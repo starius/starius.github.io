@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Contact points for Boris Nagaev
+title: Contact points
 ---
 
+ * Name: Boris Nagaev, Борис Нагаев
  * E-mail: [bnagaev@gmail.com][mail]
  * PGP key: [F01C DC55 A6C2 B6CE](/A6C2B6CE.asc)
  * [TorChat][torchat] ID: puwjcszo4pgbxa6m
