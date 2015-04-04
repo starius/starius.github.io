@@ -31,5 +31,5 @@ title: Contact points for Boris Nagaev
 [reddit]: https://reddit.com/user/starius0
 [codeforces]: http://codeforces.com/profile/starius
 [stackoverflow]: http://stackoverflow.com/users/1293417/starius
-[linkedin]: https://www.linkedin.com/profile/view?id=372080676
+[linkedin]: https://www.linkedin.com/pub/nagaev-boris/a4/738/570
 [kodomo]: http://kodomo.fbb.msu.ru/~bnagaev/
