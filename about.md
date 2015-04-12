@@ -15,12 +15,14 @@ nucleotide pangenomes. Main result of my work is project
 [NPG-explorer][npge], Nucleotide PanGenome explorer.
 You can find other projects on [this page][code] and my
 [Github profile][github]. Most of them are related to
-bioinformatics, web, C++, Lua and anonymity.
+bioinformatics, web, C++, Lua and anonymity. There is
+the list of [Lua modules][lua-toolbox], endorsed by me.
 
 [fbb]: http://en.fbb.msu.ru/
 [npge]: http://mouse.belozersky.msu.ru/tools/npge.html
 [code]: /code
 [github]: https://github.com/starius/
+[lua-toolbox]: https://lua-toolbox.com/user/129
 
 To contact me, see [my contact points][contact].
 Encrypted messages are preferable.
