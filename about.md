@@ -8,7 +8,8 @@ I program in C++, Lua and other. I use nickname starius.
 My current position is PhD student and Electronic engineer
 at [Faculty of Bioengineering and Bioinformatics][fbb]
 of Lomonosov Moscow State University, where I do science,
-programming, teaching, Linux and Windows administration.
+programming, [teaching][luaandc], Linux and Windows
+administration.
 
 I'm working on algorithms of constructing and analyzing
 nucleotide pangenomes. Main result of my work is project
@@ -19,6 +20,7 @@ bioinformatics, web, C++, Lua and anonymity. There is
 the list of [Lua modules][lua-toolbox], endorsed by me.
 
 [fbb]: http://en.fbb.msu.ru/
+[luaandc]: http://kodomo.fbb.msu.ru/wiki/Main/LuaAndC
 [npge]: http://mouse.belozersky.msu.ru/tools/npge.html
 [code]: /code
 [github]: https://github.com/starius/
