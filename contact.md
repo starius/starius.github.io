@@ -13,6 +13,7 @@ title: Contact points
  * Хабрахабр: [starius][habr]
  * Тостер: [starius][toster]
  * Keybase: [starius][keybase]
+ * Google+: [google.com/+БорисНагаев][google]
  * Twitter: [bnagaev][twitter]
  * Reddit: [starius0][reddit]
  * Codeforces: [starius][codeforces]
@@ -28,6 +29,7 @@ title: Contact points
 [habr]: http://habrahabr.ru/users/starius/
 [toster]: http://toster.ru/user/starius/
 [keybase]: https://keybase.io/starius
+[google]: https://google.com/+БорисНагаев
 [twitter]: https://twitter.com/bnagaev
 [reddit]: https://reddit.com/user/starius0
 [codeforces]: http://codeforces.com/profile/starius
