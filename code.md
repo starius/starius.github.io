@@ -15,6 +15,10 @@ title: My code
     ([source][wnoref-src])
  * [PlowBackup][plowbackup], encrypted backup across
     several web-sites
+ * [lua-rote][lua-rote], Lua binding to ROTE,
+    Terminal Emulation library
+ * [Unikeylog][Unikeylog], multifunctional keylogger for
+    Linux systems
 
 [npge]: http://mouse.belozersky.msu.ru/tools/npge.html
 [npge-src]: https://github.com/npge/npge
@@ -27,6 +31,8 @@ title: My code
 [wnoref]: http://starius.ru/wnoref/
 [wnoref-src]: https://bitbucket.org/starius/wt-classes/src/tip/examples/wnoref.cpp
 [plowbackup]: https://bitbucket.org/starius/config/src/tip/bin/plowbackup.py
+[lua-rote]: https://starius.github.io/lua-rote/
+[Unikeylog]: https://github.com/hummelchen/unikeylog
 
 ## Sites created by me
 
