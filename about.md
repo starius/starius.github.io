@@ -7,7 +7,8 @@ My name is Boris Nagaev. I live in Moscow, Russia.
 I program in C++, Lua and other. I use nickname starius.
 My current position is PhD student and Electronic engineer
 at [Faculty of Bioengineering and Bioinformatics][fbb]
-of Lomonosov Moscow State University, where I do science,
+of Lomonosov Moscow State University, where I do science
+([publications][publications]),
 programming, [teaching][luaandc], Linux and Windows
 administration.
 
@@ -23,6 +24,7 @@ the list of [Lua modules][lua-toolbox], endorsed by me.
 [luaandc]: http://kodomo.fbb.msu.ru/wiki/Main/LuaAndC
 [npge]: http://mouse.belozersky.msu.ru/tools/npge.html
 [code]: /code
+[publications]: /articles
 [github]: https://github.com/starius/
 [lua-toolbox]: https://lua-toolbox.com/user/129
 
