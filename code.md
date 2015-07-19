@@ -50,9 +50,9 @@ title: My code
     application written in [Lapis][lapis]
     ([source][kodomoquiz-src])
 
-[homepage]: http://starius.ru
+[homepage]: https://starius.ru
 [homepage-src]: https://github.com/starius/starius.github.io
-[thechess]: http://thechess.ru
+[thechess]: https://thechess.ru
 [thechess-src]: https://bitbucket.org/starius/thechess
 [kiset]: https://kiset.org
 [kiset-src]: https://bitbucket.org/starius/tete-a-tete
