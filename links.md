@@ -3,9 +3,17 @@ layout: page
 title: Books and articles to read
 ---
 
- * Algorithms (ru)
-  * [Mironov][mironov]
-  * [e-maxx :: algo][emaxx]
+ * Algorithms
+  * [Mironov][mironov] (ru)
+  * [e-maxx :: algo][emaxx] (ru)
+  * Checklist:
+    [en][algo-checklist-en],
+    [ru][algo-checklist-ru],
+    [microsoft][microsoft]
+  * Algorithm Gym:
+    [data structures][gym-struct],
+    [graphs][gym-graph],
+    [segment trees][gym-segtree]
 
  * Operating Systems
   * The Design of the Unix Operating System -
@@ -26,6 +34,9 @@ title: Books and articles to read
   * [Julien Desgats - Let's optimize LPeg][lpeg-opt]
   * [The Unofficial DynASM Documentation][dynasm]
 
+ * Cryptography
+  * [Dan Boneh - Cryptography I][cryptoI]
+
  * Benchmarks
   * [Producing Wrong Data Without Doing Anything Obviously
     Wrong!][benchmark-bias]
@@ -35,6 +46,12 @@ And some books from [here][books].
 
 [mironov]: https://starius.ru/fbb/V/alg/algBook.pdf
 [emaxx]: http://e-maxx.ru/upload/e-maxx_algo.pdf
+[algo-checklist-en]: https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
+[algo-checklist-ru]: https://sharpc.livejournal.com/67583.html
+[microsoft]: https://polycode.livejournal.com/29426.html
+[gym-struct]: http://codeforces.com/blog/entry/15729
+[gym-graph]: http://codeforces.com/blog/entry/16221
+[gym-segtree]: http://codeforces.com/blog/entry/15890
 
 [unix-design-magnet]: magnet:?xt=urn:btih:a1e3f229aeb217931880a157c6f344dd7c68ae3d
 [unix-design-pdf]: http://www.mediafire.com/download/r9cg3qb818avc2j/design-of-the-unix-operating-system-maurice-bach-1986-scan-ocr.pdf
@@ -50,5 +67,7 @@ And some books from [here][books].
 
 [benchmark-bias]: http://www-plan.cs.colorado.edu/klipto/mytkowicz-asplos09.pdf
 [STABILIZER]: http://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf
+
+[cryptoI]: https://www.coursera.org/course/crypto
 
 [books]: https://github.com/chenruiao/ares/tree/master/books
