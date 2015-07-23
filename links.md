@@ -6,6 +6,7 @@ title: Books and articles to read
  * Algorithms
   * [Mironov][mironov] (ru)
   * [e-maxx :: algo][emaxx] (ru)
+  * [Алгоритмы: построение и анализ][cormen] (ru)
   * Checklist:
     [en][algo-checklist-en],
     [ru][algo-checklist-ru],
@@ -42,10 +43,11 @@ title: Books and articles to read
     Wrong!][benchmark-bias]
   * [STABILIZER][STABILIZER]
 
-And some books from [here][books].
+And some books from [here][books] and [here][bookz].
 
 [mironov]: https://starius.ru/fbb/V/alg/algBook.pdf
 [emaxx]: http://e-maxx.ru/upload/e-maxx_algo.pdf
+[cormen]: http://e-maxx.ru/bookz/files/cormen.pdf
 [algo-checklist-en]: https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
 [algo-checklist-ru]: https://sharpc.livejournal.com/67583.html
 [microsoft]: https://polycode.livejournal.com/29426.html
@@ -71,3 +73,4 @@ And some books from [here][books].
 [cryptoI]: https://www.coursera.org/course/crypto
 
 [books]: https://github.com/chenruiao/ares/tree/master/books
+[bookz]: http://e-maxx.ru/bookz/
