@@ -30,7 +30,7 @@ title: My code
 [wt]: http://webtoolkit.eu
 [wnoref]: http://starius.ru/wnoref/
 [wnoref-src]: https://bitbucket.org/starius/wt-classes/src/tip/examples/wnoref.cpp
-[plowbackup]: https://bitbucket.org/starius/config/src/tip/bin/plowbackup.py
+[plowbackup]: https://github.com/starius/config/blob/master/.bin/plowbackup.py
 [lua-rote]: https://starius.github.io/lua-rote/
 [Unikeylog]: https://github.com/hummelchen/unikeylog
 
