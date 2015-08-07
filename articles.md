@@ -7,7 +7,8 @@ title: My publications
         "MALAKITE: AN AUTOMATIC TOOL FOR CHARACTERISATION OF STRUCTURE OF
         RELIABLE BLOCKS IN MULTIPLE ALIGNMENTS OF PROTEIN SEQUENCES",
         JBCB, 2010;
-        [abstract](https://www.ncbi.nlm.nih.gov/pubmed/20556859)
+        [abstract][malakite-abstract],
+        [full text][malakite-full]
 * постерный доклад в конференции Ломоносов
         "3D structure based protein alignment check", 2010;
 * постерный доклад в конференции Ломоносов
@@ -31,8 +32,8 @@ title: My publications
         "The algorithm for comparison of closely related bacterial genomes"
         (Алгоритмы сравнения близкородственных бактериальных геномов),
         Венеция, 23 мая 2013.
-* [постерный доклад](http://f1000.com/posters/browse/summary/1096831) в
-        конференции [ECCB'14](http://www.eccb14.org/)
+* [постерный доклад][eccb14-poster] в
+        конференции [ECCB'14][eccb14]
         "NPG-explorer: a new tool for nucleotide pangenome construction and
         analysis of closely related prokaryotic genomes"
         (NPG-explorer: новая программа для создания нуклеотидного пангенома
@@ -55,4 +56,8 @@ title: My publications
 
 See also [my posts on Habrahabr](http://habrahabr.ru/users/starius/topics/).
 
+[malakite-abstract]: https://www.ncbi.nlm.nih.gov/pubmed/20556859
+[malakite-full]: http://cyber.sci-hub.bz/MTAuMTE0Mi9zMDIxOTcyMDAxMDAwNDcyMA==/burkov2010.pdf
+[eccb14]: http://www.eccb14.org/
+[eccb14-poster]: http://f1000.com/posters/browse/summary/1096831
 [mccmb2015]: http://mccmb.belozersky.msu.ru/2015/
