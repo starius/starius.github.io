@@ -33,6 +33,7 @@ title: Books and articles to read
   * [Roberto Ierusalimschy - A Text Pattern-Matching Tool
      based on Parsing Expression Grammars][lpeg]
   * [Julien Desgats - Let's optimize LPeg][lpeg-opt]
+  * [An introduction to Parsing Expression Grammars with LPeg][lpeg-leafo]
   * [The Unofficial DynASM Documentation][dynasm]
 
  * Cryptography
@@ -65,6 +66,7 @@ And some books from [here][books] and [here][bookz].
 [russ-cox]: https://swtch.com/~rsc/regexp/
 [lpeg]: http://www.inf.puc-rio.br/~roberto/docs/peg.pdf
 [lpeg-opt]: http://mille337.net/index.php?d=2015/02/22/14/28/35
+[lpeg-leafo]: http://leafo.net/guides/parsing-expression-grammars.html
 [dynasm]: https://corsix.github.io/dynasm-doc/
 
 [benchmark-bias]: http://www-plan.cs.colorado.edu/klipto/mytkowicz-asplos09.pdf
