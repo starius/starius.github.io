@@ -46,6 +46,8 @@ title: Books and articles to read
 
 And some books from [here][books] and [here][bookz].
 
+[Nginx module development][nginx].
+
 [mironov]: https://starius.ru/fbb/V/alg/algBook.pdf
 [emaxx]: http://e-maxx.ru/upload/e-maxx_algo.pdf
 [cormen]: http://e-maxx.ru/bookz/files/cormen.pdf
@@ -76,3 +78,5 @@ And some books from [here][books] and [here][bookz].
 
 [books]: https://github.com/chenruiao/ares/tree/master/books
 [bookz]: http://e-maxx.ru/bookz/
+
+[nginx]: http://www.evanmiller.org/nginx-modules-guide.html
