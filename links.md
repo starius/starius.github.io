@@ -25,6 +25,9 @@ title: Books and articles to read
    ([pdf][prog-posix-threads-pdf])
    ([code][prog-posix-threads-code])
   * [Books by Richard Stevens][stevens]
+  * Linux System Programming -
+   Robert Love
+   ([pdf][linux-robert-love])
 
  * How parsers and compilers work
   * Dragon Book: ([2ed, en][purple-dragon-book-en]),
@@ -63,6 +66,7 @@ And some books from [here][books] and [here][bookz].
 [prog-posix-threads-pdf]: http://ptgmedia.pearsoncmg.com/images/9780201633924/samplepages/0201633922.pdf
 [prog-posix-threads-code]: https://github.com/snikulov/prog_posix_threads
 [stevens]: http://www.kohala.com/start/#books
+[linux-robert-love]: http://reiber.org/nxt/pub/Linux/LinuxKernelDevelopment/Linux.Kernel.Development.3rd.Edition.pdf
 [purple-dragon-book-en]: https://github.com/chenruiao/ares/raw/master/books/Compilers%20Principles%20Techniques%20and%20Tools%20(2nd%20Edition)%20.pdf
 [red-dragon-book-ru]: http://lib.mexmat.ru/books/2444
 [russ-cox]: https://swtch.com/~rsc/regexp/
