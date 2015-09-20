@@ -35,6 +35,8 @@ title: Books and articles to read
   * [Russ Cox - Implementing Regular Expressions][russ-cox]
   * [Roberto Ierusalimschy - A Text Pattern-Matching Tool
      based on Parsing Expression Grammars][lpeg]
+  * [Marcelo Oikawa et. al. - Converting regexes to
+     Parsing Expression Grammars][regex-to-peg]
   * [Julien Desgats - Let's optimize LPeg][lpeg-opt]
   * [An introduction to Parsing Expression Grammars with LPeg][lpeg-leafo]
   * [The Unofficial DynASM Documentation][dynasm]
@@ -71,6 +73,7 @@ And some books from [here][books] and [here][bookz].
 [red-dragon-book-ru]: http://lib.mexmat.ru/books/2444
 [russ-cox]: https://swtch.com/~rsc/regexp/
 [lpeg]: http://www.inf.puc-rio.br/~roberto/docs/peg.pdf
+[regex-to-peg]: http://www.inf.puc-rio.br/~roberto/docs/ry10-01.pdf
 [lpeg-opt]: http://mille337.net/index.php?d=2015/02/22/14/28/35
 [lpeg-leafo]: http://leafo.net/guides/parsing-expression-grammars.html
 [dynasm]: https://corsix.github.io/dynasm-doc/
