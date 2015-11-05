@@ -39,7 +39,7 @@ Some things I love:
 
  * anime
  * [Big B Radio](http://www.bigbradio.com/):
-    `mplayer http://50.7.173.162:8076`
+    `mplayer http://50.7.173.162:8089`
  * [OpenArena][oa]
 
 I don’t have a girlfriend.
