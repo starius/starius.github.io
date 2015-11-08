@@ -53,6 +53,10 @@ title: My publications
     "NPG-explorer: a new tool for nucleotide pangenome
     construction and analysis of closely related prokaryotic
     genomes". July, 17, 2015
+* D.V. Goryunov, B.E. Nagaev, M.Yu Nikolaev, A.V. Alexeevski, and A.V. Troitsky.
+  [Moss phylogeny reconstruction using nucleotide pangenome of
+  complete mitogenome sequences][mosses].
+  Biochemistry (Moscow), 80(11):1522–1527, 2015.
 
 See also [my posts on Habrahabr](http://habrahabr.ru/users/starius/topics/).
 
@@ -61,3 +65,4 @@ See also [my posts on Habrahabr](http://habrahabr.ru/users/starius/topics/).
 [eccb14]: http://www.eccb14.org/
 [eccb14-poster]: http://f1000.com/posters/browse/summary/1096831
 [mccmb2015]: http://mccmb.belozersky.msu.ru/2015/
+[mosses]: http://istina.msu.ru/publications/article/11518378/
