@@ -44,8 +44,6 @@ title: My code
     ([source][kiset-src])
  * [onion.gq][oniongq], web-proxy for onion-sites
     ([source][oniongq-src])
- * [qtinwt.onion.gq][qtinwt], web-proxy with remote
-    JavaScript execution ([source][qtinwt-src])
  * [kodomoquiz.tk][kodomoquiz], Python, Lua and C quiz
     application written in [Lapis][lapis]
     ([source][kodomoquiz-src])
@@ -60,8 +58,6 @@ title: My code
 [kiset-src]: https://bitbucket.org/starius/tete-a-tete
 [oniongq]: http://onion.gq
 [oniongq-src]: https://github.com/starius/onion2web
-[qtinwt]: http://qtinwt.onion.gq
-[qtinwt-src]: https://github.com/starius/qtinwt
 [kodomoquiz]: http://kodomoquiz.tk
 [kodomoquiz-src]: https://github.com/starius/kodomoquiz
 [lapis]: http://leafo.net/lapis/
