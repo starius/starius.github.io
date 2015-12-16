@@ -48,7 +48,7 @@ title: My publications
     "NPG-explorer, a tool for creating and
     exploring nucleotide pangenome for closely related
     prokaryotic genomes". July, 16, 2015
-* report at Moscow Conference on Computational Molecular
+* [report][mccmb2015-pdf] at Moscow Conference on Computational Molecular
     Biology ([MCCMB'15][mccmb2015])
     "NPG-explorer: a new tool for nucleotide pangenome
     construction and analysis of closely related prokaryotic
@@ -65,4 +65,5 @@ See also [my posts on Habrahabr](http://habrahabr.ru/users/starius/topics/).
 [eccb14]: http://www.eccb14.org/
 [eccb14-poster]: http://f1000.com/posters/browse/summary/1096831
 [mccmb2015]: http://mccmb.belozersky.msu.ru/2015/
+[mccmb2015-pdf]: http://mccmb.belozersky.msu.ru/2015/proceedings/abstracts/164.pdf
 [mosses]: http://istina.msu.ru/publications/article/11518378/
