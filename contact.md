@@ -20,6 +20,7 @@ title: Contact points
  * Stack Overflow: [starius][stackoverflow]
  * [LinkedIn profile][linkedin]
  * Учебный сайт ФББ: [bnagaev][kodomo]
+ * Истина: [nagaev][istina]
 
 [mail]: mailto:bnagaev@gmail.com
 [torchat]: https://github.com/prof7bit/TorChat/downloads
@@ -36,3 +37,4 @@ title: Contact points
 [stackoverflow]: http://stackoverflow.com/users/1293417/starius
 [linkedin]: https://www.linkedin.com/pub/nagaev-boris/a4/738/570
 [kodomo]: http://kodomo.fbb.msu.ru/~bnagaev/
+[istina]: https://istina.msu.ru/profile/nagaev/
