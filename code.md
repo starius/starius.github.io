@@ -49,6 +49,8 @@ title: My code
     ([source][kodomoquiz-src])
  * [pkg.mxe.cc][mxedeb], Binary distribution of [MXE][mxe]
     packages ([source][mxedeb-src])
+ * [pasta.cf][pasta],  Pastebin-like service in [Lapis][lapis]
+    ([source][pasta-src])
 
 [homepage]: https://starius.ru
 [homepage-src]: https://github.com/starius/starius.github.io
@@ -64,3 +66,5 @@ title: My code
 [mxedeb]: http://pkg.mxe.cc/
 [mxedeb-src]: https://github.com/mxe/mxe/blob/master/tools/build-pkg.lua
 [mxe]: http://mxe.cc
+[pasta]: https://pasta.cf
+[pasta-src]: https://github.com/starius/pasta
