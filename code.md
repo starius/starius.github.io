@@ -47,7 +47,7 @@ title: My code
  * [kodomoquiz.tk][kodomoquiz], Python, Lua and C quiz
     application written in [Lapis][lapis]
     ([source][kodomoquiz-src])
- * [mxe.redjohn.tk][mxedeb], Binary distribution of [MXE][mxe]
+ * [pkg.mxe.cc][mxedeb], Binary distribution of [MXE][mxe]
     packages ([source][mxedeb-src])
 
 [homepage]: https://starius.ru
@@ -61,6 +61,6 @@ title: My code
 [kodomoquiz]: http://kodomoquiz.tk
 [kodomoquiz-src]: https://github.com/starius/kodomoquiz
 [lapis]: http://leafo.net/lapis/
-[mxedeb]: http://mxe.redjohn.tk/
+[mxedeb]: http://pkg.mxe.cc/
 [mxedeb-src]: https://github.com/mxe/mxe/blob/master/tools/build-pkg.lua
 [mxe]: http://mxe.cc
