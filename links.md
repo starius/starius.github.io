@@ -15,6 +15,7 @@ title: Books and articles to read
     [data structures][gym-struct],
     [graphs][gym-graph],
     [segment trees][gym-segtree]
+  * [Data science books][51kniga]
 
  * Operating Systems
   * The Design of the Unix Operating System -
@@ -68,6 +69,7 @@ And some books from [here][books] and [here][bookz].
 [gym-struct]: http://codeforces.com/blog/entry/15729
 [gym-graph]: http://codeforces.com/blog/entry/16221
 [gym-segtree]: http://codeforces.com/blog/entry/15890
+[51kniga]: http://icanchoose.ru/blog/51-besplatnaya-kniga-o-data-science/
 
 [unix-design-magnet]: magnet:?xt=urn:btih:a1e3f229aeb217931880a157c6f344dd7c68ae3d
 [unix-design-pdf]: http://www.mediafire.com/download/r9cg3qb818avc2j/design-of-the-unix-operating-system-maurice-bach-1986-scan-ocr.pdf
