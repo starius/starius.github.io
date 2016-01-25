@@ -31,6 +31,10 @@ title: Books and articles to read
   * [Linux Kernel Practice][mylinuxprog-orig],
     [mirror][mylinuxprog-mirror]
 
+ * Hardware
+  * [High Performance Computer Architecture][hpca],
+    Pipelines, Caches, and MultiCores.
+
  * How parsers and compilers work
   * Dragon Book: ([2ed, en][purple-dragon-book-en]),
     ([1ed, ru][red-dragon-book-ru])
@@ -73,6 +77,8 @@ And some books from [here][books] and [here][bookz].
 [linux-robert-love]: http://reiber.org/nxt/pub/Linux/LinuxKernelDevelopment/Linux.Kernel.Development.3rd.Edition.pdf
 [mylinuxprog-orig]: http://mylinuxprog.blogspot.fr/2015/02/linux-kernel_25.html
 [mylinuxprog-mirror]: https://github.com/starius/mylinuxprog
+
+[hpca]: https://www.udacity.com/course/high-performance-computer-architecture--ud007
 
 [purple-dragon-book-en]: https://github.com/chenruiao/ares/raw/master/books/Compilers%20Principles%20Techniques%20and%20Tools%20(2nd%20Edition)%20.pdf
 [red-dragon-book-ru]: http://lib.mexmat.ru/books/2444
