@@ -17,6 +17,7 @@ title: My code
     several web-sites
  * [lua-rote][lua-rote], Lua binding to ROTE,
     Terminal Emulation library
+ * [lua-lru][lua-lru], LRU cache in Lua
  * [Unikeylog][Unikeylog], multifunctional keylogger for
     Linux systems
 
@@ -32,6 +33,7 @@ title: My code
 [wnoref-src]: https://bitbucket.org/starius/wt-classes/src/tip/examples/wnoref.cpp
 [plowbackup]: https://github.com/starius/config/blob/master/.bin/plowbackup.py
 [lua-rote]: https://starius.github.io/lua-rote/
+[lua-lru]: https://github.com/starius/lua-lru
 [Unikeylog]: https://github.com/hummelchen/unikeylog
 
 ## Sites created by me
