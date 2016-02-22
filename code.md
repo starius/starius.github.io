@@ -11,8 +11,6 @@ title: My code
     from the [MS-GFDB][msgfdb] to [pepXML][pepxml]
  * [wt-classes][wc], utility classes used by
     [Wt][wt] applications ([source][wc-src])
- * [wnoref][wnoref], one time pastebin
-    ([source][wnoref-src])
  * [PlowBackup][plowbackup], encrypted backup across
     several web-sites
  * [lua-rote][lua-rote], Lua binding to ROTE,
@@ -29,8 +27,6 @@ title: My code
 [wc]: http://starius.ru/wt-classes/reference/
 [wc-src]: https://bitbucket.org/starius/wt-classes
 [wt]: http://webtoolkit.eu
-[wnoref]: http://starius.ru/wnoref/
-[wnoref-src]: https://bitbucket.org/starius/wt-classes/src/tip/examples/wnoref.cpp
 [plowbackup]: https://github.com/starius/config/blob/master/.bin/plowbackup.py
 [lua-rote]: https://starius.github.io/lua-rote/
 [lua-lru]: https://github.com/starius/lua-lru
