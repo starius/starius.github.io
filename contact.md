@@ -5,7 +5,7 @@ title: Contact points
 
  * Name: Boris Nagaev, Борис Нагаев
  * E-mail: [bnagaev@gmail.com][mail]
- * PGP key: [F01C DC55 A6C2 B6CE](/A6C2B6CE.asc)
+ * PGP key: [5EA9 8470 361A CB4F](../361ACB4F.asc)
  * [TorChat][torchat] ID: puwjcszo4pgbxa6m
  * Bitcoin address: [1CsfihQGy5kg3nnTJLzfmNDiPGqiQgdeMz][bitcoin]
  * Github: [starius][github]
