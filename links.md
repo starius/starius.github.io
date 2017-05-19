@@ -4,57 +4,63 @@ title: Books and articles to read
 ---
 
  * Algorithms
-  * [Mironov][mironov] (ru)
-  * [e-maxx :: algo][emaxx] (ru)
-  * [Алгоритмы: построение и анализ][cormen] (ru)
-  * Checklist:
-    [en][algo-checklist-en],
-    [ru][algo-checklist-ru],
-    [microsoft][microsoft]
-  * Algorithm Gym:
-    [data structures][gym-struct],
-    [graphs][gym-graph],
-    [segment trees][gym-segtree]
-  * [Data science books][51kniga]
+
+   * [Mironov][mironov] (ru)
+   * [e-maxx :: algo][emaxx] (ru)
+   * [Алгоритмы: построение и анализ][cormen] (ru)
+   * Checklist:
+     [en][algo-checklist-en],
+     [ru][algo-checklist-ru],
+     [microsoft][microsoft]
+   * Algorithm Gym:
+     [data structures][gym-struct],
+     [graphs][gym-graph],
+     [segment trees][gym-segtree]
+   * [Data science books][51kniga]
 
  * Operating Systems
-  * The Design of the Unix Operating System -
-   Maurice J Bach
-   ([pdf][unix-design-pdf])
-   ([magnet][unix-design-magnet])
-  * Programming with POSIX Threads - David R. Butenhof
-   ([pdf][prog-posix-threads-pdf])
-   ([code][prog-posix-threads-code])
-  * [Books by Richard Stevens][stevens]
-  * Linux System Programming -
-   Robert Love
-   ([pdf][linux-robert-love])
-  * [Linux Kernel Practice][mylinuxprog-orig],
-    [mirror][mylinuxprog-mirror]
+
+   * The Design of the Unix Operating System -
+    Maurice J Bach
+    ([pdf][unix-design-pdf])
+    ([magnet][unix-design-magnet])
+   * Programming with POSIX Threads - David R. Butenhof
+    ([pdf][prog-posix-threads-pdf])
+    ([code][prog-posix-threads-code])
+   * [Books by Richard Stevens][stevens]
+   * Linux System Programming -
+    Robert Love
+    ([pdf][linux-robert-love])
+   * [Linux Kernel Practice][mylinuxprog-orig],
+     [mirror][mylinuxprog-mirror]
 
  * Hardware
-  * [High Performance Computer Architecture][hpca],
-    Pipelines, Caches, and MultiCores.
+
+   * [High Performance Computer Architecture][hpca],
+     Pipelines, Caches, and MultiCores.
 
  * How parsers and compilers work
-  * Dragon Book: ([2ed, en][purple-dragon-book-en]),
-    ([1ed, ru][red-dragon-book-ru])
-  * [Russ Cox - Implementing Regular Expressions][russ-cox]
-  * [Roberto Ierusalimschy - A Text Pattern-Matching Tool
-     based on Parsing Expression Grammars][lpeg]
-  * [Marcelo Oikawa et. al. - Converting regexes to
-     Parsing Expression Grammars][regex-to-peg]
-  * [Julien Desgats - Let's optimize LPeg][lpeg-opt]
-  * [An introduction to Parsing Expression Grammars with LPeg][lpeg-leafo]
-  * [The Unofficial DynASM Documentation][dynasm]
+
+   * Dragon Book: ([2ed, en][purple-dragon-book-en]),
+     ([1ed, ru][red-dragon-book-ru])
+   * [Russ Cox - Implementing Regular Expressions][russ-cox]
+   * [Roberto Ierusalimschy - A Text Pattern-Matching Tool
+      based on Parsing Expression Grammars][lpeg]
+   * [Marcelo Oikawa et. al. - Converting regexes to
+      Parsing Expression Grammars][regex-to-peg]
+   * [Julien Desgats - Let's optimize LPeg][lpeg-opt]
+   * [An introduction to Parsing Expression Grammars with LPeg][lpeg-leafo]
+   * [The Unofficial DynASM Documentation][dynasm]
 
  * Cryptography
-  * [Dan Boneh - Cryptography I][cryptoI]
+
+   * [Dan Boneh - Cryptography I][cryptoI]
 
  * Benchmarks
-  * [Producing Wrong Data Without Doing Anything Obviously
-    Wrong!][benchmark-bias]
-  * [STABILIZER][STABILIZER]
+
+   * [Producing Wrong Data Without Doing Anything Obviously
+     Wrong!][benchmark-bias]
+   * [STABILIZER][STABILIZER]
 
 And some books from [here][books] and [here][bookz].
 
