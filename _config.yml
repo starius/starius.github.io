@@ -12,7 +12,6 @@ title:               'Boris Nagaev'
 tagline:             'Home page'
 description:         'Home page of Boris Nagaev (<a href="https://keybase.io/starius">starius</a>), bnagaev@gmail.com'
 url:                 http://starius.ru
-baseurl:             /
 paginate:            5
 gems:
  - jekyll-paginate
